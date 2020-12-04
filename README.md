@@ -1,3 +1,7 @@
+# DEMO for the Spotify Clone
+
+![Spotify App](https://raw.githubusercontent.com/valisaros/react-spotify-clone/master/Spotify%20App.png)
+![Spotify Login](https://raw.githubusercontent.com/valisaros/react-spotify-clone/master/Spotify%20Login.png)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

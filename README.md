@@ -1,4 +1,5 @@
 # DEMO for the Spotify Clone
+Opem [https://clone-amaz-valisaros.web.app](https://clone-amaz-valisaros.web.app) to view the live app.
 
 ![Spotify App](https://raw.githubusercontent.com/valisaros/react-spotify-clone/master/Spotify%20App.png)
 ![Spotify Login](https://raw.githubusercontent.com/valisaros/react-spotify-clone/master/Spotify%20Login.png)
